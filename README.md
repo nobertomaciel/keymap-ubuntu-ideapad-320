@@ -1,8 +1,8 @@
-Keyboard configuration file (KeyMap) for lenovo ideapad 320 notebook 14ibk 14isk 15ikb 15isk
+Keyboard configuration files (KeyMap) for Lenovo IdeaPad 320 notebooks (14IBK, 14ISK, 15IKB, and 15ISK)
 
-Put files on correct directory.
- files in symbols to: /usr/share/X11/xkb/symbols
- files in keycode to: /usr/share/X11/xkb/keycodes
+Place the files in the correct directories:
 
-See Ubuntu Help Community for more details:
-/ushttps://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions?action=show&redirect=Howto%3A+Custom+keyboard+layout+definitions
+* Files in the "symbols" directory: /usr/share/X11/xkb/symbols
+* Files in the "keycodes" directory: /usr/share/X11/xkb/keycodes
+
+See the Ubuntu Community Help Wiki for more details.
